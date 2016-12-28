@@ -1,0 +1,6 @@
+export PATH="/var/vcap/packages/bcc/apt/usr/bin:$PATH"
+export LD_LIBRARY_PATH="/var/vcap/packages/bcc/apt/usr/lib:/var/vcap/packages/bcc/apt/usr/lib/x86_64-linux-gnu:$LD_LIBRARY_PATH"
+export INCLUDE_PATH="/var/vcap/packages/bcc/apt/usr/include:$INCLUDE_PATH"
+export CPATH="$INCLUDE_PATH"
+export CPPPATH="$INCLUDE_PATH"
+export PYTHONPATH="/var/vcap/packages/bcc/apt/usr/lib/python2.7/dist-packages"

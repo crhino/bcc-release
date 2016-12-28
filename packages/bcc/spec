@@ -1,0 +1,11 @@
+---
+name: bcc
+
+files:
+- binutils/binutils_2.24-5ubuntu14.1_amd64.deb
+- libelf1/libelf1_0.158-0ubuntu5.2_amd64.deb
+- bcc-tools/bcc-tools_0.2.0-1_all.deb
+- libbcc/libbcc_0.2.0-1_amd64.deb
+- libbcc-examples/libbcc-examples_0.2.0-1_amd64.deb
+- python-bcc/python-bcc_0.2.0-1_all.deb
+- apt/bcc/profile.sh
